@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Chinmay Kulkarni</h1>
-<h3 align="center">Final Year B.Tech student with strong passion for software engineering, web development & machine learning</h3>
+<h3 align="center">Final Year B.Tech student with strong passion for Software Engineering, Web Dev & Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47zdupxiz8c15aat7j1dpa1pzkf9s12xy16bgnj3gm&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
