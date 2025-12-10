@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey👋, I'm Chinmay</h1>
-<h3 align="center">Final Year B.Tech student with strong passion for Software Engineering, Web Dev & Machine Learning</h3>
+<h3 align="center">AI Engineer with hands-on experience in model development, automation, and real-world deployment</h3>
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47zdupxiz8c15aat7j1dpa1pzkf9s12xy16bgnj3gm&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
