@@ -106,7 +106,15 @@
 
 ## 🚀 Projects
 
-### 🚗 AutoPriceML — Car Resale Price Prediction System
+### edu-lora — Educational Q&A Fine-Tuning Pipeline
+
+> Fine-tuned **Qwen2.5-0.5B-Instruct** on SQuAD using **LoRA** (r=16, PEFT) with a custom PyTorch training loop — gradient accumulation, grad clipping, **W&B** experiment tracking
+> Achieved **+300% ROUGE-L** improvement (0.09 → 0.36) and **11%** latency reduction vs base model on CPU-only hardware
+> Built **FastAPI** inference server loading adapter weights at startup for low-latency responses
+> Wrote automated eval pipeline comparing base vs fine-tuned model across **30** held-out Q&A pairs
+
+
+### 🚗 AutoPriceML 
 
 > Predict used car prices with 93% accuracy using ML models trained on real-world Quikr data
 
