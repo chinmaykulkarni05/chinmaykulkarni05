@@ -12,7 +12,7 @@
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
 > *AI Engineer building production-grade ML, GenAI, and NLP systems — from RAG pipelines to agentic workflows.*
 
@@ -24,7 +24,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -37,9 +37,9 @@
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🏢 Cognizant Technology Solutions — *AI Engineer* `May 2025 – Present`
+### 🏢 Cognizant Technology Solutions — *AI Engineer* `May 2025 – Present`
 > Bengaluru, India
 
 - 🔧 Built end-to-end **RAG pipeline** for financial document intelligence on SEC 10-K, 10-Q & 8-K filings — slashing analyst research time from hours to near-instant responses
@@ -53,7 +53,7 @@
 
 ---
 
-## 🌐 TetraNoodle Technologies — *AI Intern* `Oct 2024 – Feb 2025`
+### 🌐 TetraNoodle Technologies — *AI Intern* `Oct 2024 – Feb 2025`
 > Vancouver, Canada *(Remote)*
 
 - 🤖 Built AI-powered agents using **n8n** to automate end-to-end workflows for data collection, processing & outreach
@@ -63,9 +63,9 @@
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
-## 📚 edu-lora — Educational Q&A Fine-Tuning Pipeline
+### 📚 edu-lora — Educational Q&A Fine-Tuning Pipeline
 
 - Fine-tuned **Qwen2.5-0.5B-Instruct** on **SQuAD** using **LoRA (r=16)** and **PEFT**
 - Built a custom **PyTorch training loop** with gradient accumulation and gradient clipping
@@ -78,7 +78,7 @@
 
 ---
 
-## 🚗 AutoPriceML
+### 🚗 AutoPriceML
 
 - Built an ML system to predict used car prices using real-world **Quikr** dataset
 - Trained and compared **Linear Regression**, **Decision Tree**, and **Random Forest** models
@@ -88,13 +88,13 @@
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - 🏅 **Generative AI with LangChain and HuggingFace**
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 | Degree | Institution | Period |
 |--------|------------|--------|
