@@ -42,14 +42,14 @@
 ### 🏢 Cognizant Technology Solutions — *AI Engineer* `May 2025 – Present`
 > Bengaluru, India
 
-- 🔧 Built end-to-end **RAG pipeline** for financial document intelligence on SEC 10-K, 10-Q & 8-K filings — slashing analyst research time from hours to near-instant responses
-- 📥 Developed automated **SEC EDGAR ingestion pipelines** with filing parsing, rate limiting & configurable multi-filing extraction
-- 🧩 Engineered **filing-aware chunking**, semantic embedding & **ChromaDB** vector storage
-- 🔍 Implemented metadata-driven **semantic search** with multi-field filtering (ticker, filing type, sections, figures)
-- 🤖 Deployed **Phi-3 Mini locally via Ollama** for grounded citation-aware financial Q&A
+- 🔧 Built an end-to-end **RAG pipeline** for financial intelligence over SEC 10-K, 10-Q, and 8-K filings, enabling low-latency citation-grounded question answering and semantic search
+- 📥 Designed and maintained scalable **ETL** and data ingestion pipelines with chunking, metadata enrichment, embeddings, and ChromaDB vector indexing across **6K+** financial document chunks
+- 🧩 Implemented hybrid retrieval combining **BM25** sparse search and **BGE** dense vector search, fused via Reciprocal Rank Fusion**(RRF)**, along with metadata filtering and cross-encoder reranking to improve retrieval precision and answer quality
+- 🔍 Integrated **OpenAI's GPT-4o model** for inference and query-aware response generation
+- 🤖 Built production-ready **FastAPI** services with async processing, authentication, streaming APIs, and structured response schemas; applied data ethics and compliance standards to all API outputs
 - 🚀 Built **FastAPI** inference APIs with optimized retrieval & low-latency response handling
-- 📊 Created automated **evaluation pipelines** for hallucination detection, retrieval relevance & answer quality
-- 🔒 Delivered in a **privacy-first, air-gapped architecture** ensuring institutional compliance
+- 📊 Created automated RAG evaluation frameworks for relevance, groundedness, hallucination detection, and latency benchmarking, achieving a **0.79 → 0.87** quality score
+- 🔒 The system was deployed on **AWS**, providing scalable & reliable access to AI-powered financial insights
 
 ---
 
