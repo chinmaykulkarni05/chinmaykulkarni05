@@ -17,9 +17,8 @@
 > *AI Engineer building production-grade ML, GenAI, and NLP systems — from RAG pipelines to agentic workflows.*
 
 - 🏢 Currently @ **Cognizant Technology Solutions** as AI Engineer (May 2025 – Present)
-- 🔍 Specializing in **RAG pipelines**, **LLM fine-tuning**, and **financial document intelligence**
+- 🔍 Specializing in **AI**,**ML**, **Gen AI**, **RAG pipelines**, and **LLM fine-tuning**
 - 🎓 B.Tech in **Computer Science & Engineering (Data Science)** — KIT's College of Engineering, Kolhapur (2021–2025)
-- 🔐 Delivered **privacy-first, air-gapped AI architectures** for institutional investment clients
 - 🌐 Open to exciting AI/ML opportunities and collaborations
 
 ---
