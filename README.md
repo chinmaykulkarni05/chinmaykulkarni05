@@ -41,14 +41,14 @@
 ### 🏢 Cognizant Technology Solutions — *AI Engineer* `May 2025 – Present`
 > Bengaluru, India
 
-- 🔧 Built an end-to-end **RAG pipeline** for financial intelligence over SEC 10-K, 10-Q, and 8-K filings, enabling low-latency citation-grounded question answering and semantic search
-- 📥 Designed and maintained scalable **ETL** and data ingestion pipelines with chunking, metadata enrichment, embeddings, and ChromaDB vector indexing across **6K+** financial document chunks
-- 🧩 Implemented hybrid retrieval combining **BM25** sparse search and **BGE** dense vector search, fused via Reciprocal Rank Fusion**(RRF)**, along with metadata filtering and cross-encoder reranking to improve retrieval precision and answer quality
-- 🔍 Integrated **OpenAI's GPT-4o model** for inference and query-aware response generation
-- 🤖 Built production-ready **FastAPI** services with async processing, authentication, streaming APIs, and structured response schemas; applied data ethics and compliance standards to all API outputs
-- 🚀 Built **FastAPI** inference APIs with optimized retrieval & low-latency response handling
-- 📊 Created automated RAG evaluation frameworks for relevance, groundedness, hallucination detection, and latency benchmarking, achieving a **0.79 → 0.87** quality score
-- 🔒 The system was deployed on **AWS**, providing scalable & reliable access to AI-powered financial insights
+- Built an end-to-end **RAG pipeline** on SEC filings (10-K, 10-Q, 8-K), enabling telecom financial analysts to reduce manual research
+and query competitor intelligence
+- Designed scalable **ETL** and data ingestion pipelines that ensured analysts had structured, searchable access to the competitor filings, with chunking, metadata enrichment, and ChromaDB vector indexing across **6K+** financial document **chunks**
+- Implemented hybrid retrieval combining **BM25** sparse search and **BGE** dense vector search fused via Reciprocal Rank Fusion **(RRF)**, with cross-encoder reranking significantly improving retrieval precision and answer quality over baseline
+- Integrated **GPT-4o** for query-aware response generation, delivering consistent **4.0/5.0** LLM judge scores across 7 query categories including numerical precision, temporal, and comparative reasoning
+- Built production-ready **FastAPI** services with async processing, authentication, streaming APIs, and structured response schemas achieving zero LLM errors in production across all evaluated queries
+- Designed RAG evaluation framework covering retrieval quality, groundedness & RAG score of **0.80** with **94%** hallucination-free accuracy
+- Deployed the full system on **AWS**, enabling scalable, reliable access to citation-grounded financial insights across SEC filings
 
 ---
 
