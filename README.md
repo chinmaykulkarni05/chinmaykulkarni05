@@ -55,10 +55,10 @@ and query competitor intelligence
 ### 🌐 TetraNoodle Technologies — *AI Intern* `Oct 2024 – Feb 2025`
 > Vancouver, Canada *(Remote)*
 
-- 🤖 Built AI-powered agents using **n8n** to automate end-to-end workflows for data collection, processing & outreach
-- 🔗 Designed agentic pipelines integrating **Apollo & Clay** for automated lead generation and enrichment
-- 🐳 Containerized and scaled AI solutions with **Docker**
-- 💡 Leveraged **OpenAI APIs** to build intelligent workflows enhancing business decision-making
+-  Created AI-powered **agents** using **n8n** to automate end-to-end workflows for data collection, processing, and outreach
+- Designed agentic pipelines integrating tools like **Apollo** and **Clay** for lead generation and enrichment
+- Containerized and scaled AI solutions with **Docker**, ensuring reliable and efficient production environments
+- Leveraged **OpenAI APIs** and **LLMs** to create intelligent workflows that enhanced business processes and decision-making
 
 ---
 
