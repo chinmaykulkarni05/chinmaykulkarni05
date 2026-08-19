@@ -44,12 +44,10 @@
 - Built an end-to-end **RAG pipeline** on SEC filings (10-K, 10-Q, 8-K), enabling telecom financial analysts to reduce manual research
 and query competitor intelligence
 - Designed scalable **ETL** and data ingestion pipelines that ensured analysts had structured, searchable access to the competitor filings, with chunking, metadata enrichment, and ChromaDB vector indexing across **6K+** financial document **chunks**
-- Implemented hybrid retrieval combining **BM25** sparse search and **BGE** dense vector search fused via Reciprocal Rank Fusion **(RRF)**, with cross-encoder reranking significantly improving retrieval precision and answer quality over baseline
-- Integrated **GPT-4o** for query-aware response generation, delivering consistent **4.0/5.0** LLM judge scores across 7 query categories including numerical precision, temporal, and comparative reasoning
-- Built production-ready **FastAPI** services with async processing, authentication, streaming APIs, and structured response schemas achieving zero LLM errors in production across all evaluated queries
-- Designed RAG evaluation framework covering retrieval quality, groundedness & RAG score of **0.80** with **94%** hallucination-free accuracy
-- Deployed the full system on **AWS**, enabling scalable, reliable access to citation-grounded financial insights across SEC filings
-
+- Built a LangGraph-based multi-agent RAG system (Navigator, Research, Analysis, Validator agents) for SEC filing intelligence, with a tool-driven architecture spanning metadata navigation, hybrid retrieval, financial analysis, and response validation.
+- Implemented hybrid retrieval with ChromaDB, BM25, and Cross-Encoder reranking for citation-grounded document retrieval; engineered the ingestion pipeline with adaptive chunking, metadata enrichment, and vector/BM25 indexing.
+- Built query-aware planning with dynamic metadata filtering across companies, filing types, fiscal years, and document sections; integrated GPT-4o with structured prompting for grounded financial Q&A and summaries with citations.
+- Developed a FastAPI-based agentic backend with shared resources and REST APIs, and built an automated RAG evaluation framework achieving a 0.80 RAG score and 95% hallucination-free responses.
 ---
 
 ### 🌐 TetraNoodle Technologies — *AI Intern* `Oct 2024 – Feb 2025`
